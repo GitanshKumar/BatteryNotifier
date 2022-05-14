@@ -1,0 +1,8 @@
+{
+ "Max Battery": 80,
+ "Min Battery": 40,
+ "Depletion": 1,
+ "Charging": 1,
+ "CPU": 0,
+ "Memory": 0
+}
